@@ -2,6 +2,8 @@
 
 This repository contains a number of examples on Text Processig and Sentiment Analyis, to be explored in the context of the Summer School: [Advanced Analysis for Integrated Urban Development Strategies (ADD_In)](https://istar.iscte-iul.pt/summerschool2023/)
 
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fmmb/ADD_In-2023/blob/main/sa-strategies.ipynb)
+
 ### Contents and how to proceed
 
 * [SA-strategies](sa-strategies.ipynb) - Describes a number of strategies for performing Sentiment Analysis
